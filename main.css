@@ -1,0 +1,15 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: red;
+}
+
+section {
+    color: green;
+}
+
+#ideas {
+    background-color: white;
+}
